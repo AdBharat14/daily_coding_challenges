@@ -1,0 +1,13 @@
+Task 01: 
+Understand the concept of loops and try to create a pyramid of * pattern of size n (user input).
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+
+
+Task 02:
+https://practice.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1?fbclid=IwAR2a-ES0am633vzDImCiV0sN_8ggiOBRcmnqt4TomA1U5DUMWD4xrcz8yd8
+qus: Find the smallest and second smallest element in an array
