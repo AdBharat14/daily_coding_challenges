@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+
+Task 2: 
+https://practice.geeksforgeeks.org/problems/find-the-highest-number2259/1

@@ -1,0 +1,10 @@
+Task 1:
+Write a program to create inverted hollow triangle star pattern of size n
+* * * * * * * 
+ *         *
+   *     *
+     * *
+      *
+
+Task 2: 
+https://leetcode.com/problems/rotate-image/

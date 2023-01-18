@@ -1,0 +1,6 @@
+Task 1:
+Read about Binary Search and how it is implemented. You can use this blog to begin with:
+https://www.geeksforgeeks.org/binary-search/amp/
+
+Task 2:
+https://leetcode.com/problems/maximum-ice-cream-bars/

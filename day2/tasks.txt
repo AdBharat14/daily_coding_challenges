@@ -1,0 +1,5 @@
+Task 1:
+Learn Arrays and Pointers
+
+Task 2:
+https://practice.geeksforgeeks.org/.../remove-vowels.../1

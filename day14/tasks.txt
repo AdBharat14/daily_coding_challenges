@@ -1,0 +1,6 @@
+Task 1:
+Explore more about Binary search and its modifications. Here is an article you can refer to: 
+https://leetcode.com/discuss/study-guide/1233854/A-GUIDE-TO-THE-BINARY-SEARCH-ALGORITHM
+
+Task 2:
+https://leetcode.com/problems/search-insert-position/

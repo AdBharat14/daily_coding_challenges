@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/create-target-array-in-the-given-order/
+
+Task 2: 
+https://leetcode.com/problems/lemonade-change/description/

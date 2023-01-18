@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/pascals-triangle/
+
+Task 2:
+https://leetcode.com/problems/sort-colors/

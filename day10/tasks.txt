@@ -1,0 +1,5 @@
+Task 1:
+https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1
+
+Task 2:
+https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1

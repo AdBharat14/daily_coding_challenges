@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/count-prefixes-of-a-given-string/
+
+Task2:
+https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1

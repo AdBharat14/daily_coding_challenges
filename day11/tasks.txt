@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/duplicate-zeros/
+
+Task 2:
+https://leetcode.com/problems/intersection-of-two-arrays/

@@ -1,0 +1,5 @@
+Task 1:
+https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1
+
+Task 2:
+https://practice.geeksforgeeks.org/problems/sum-of-primes0042/1
