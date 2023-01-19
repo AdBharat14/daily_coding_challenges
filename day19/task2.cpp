@@ -1,28 +1,29 @@
 class Solution {
 public:
-    bool lemonadeChange(vector<int>& bills) {
-        int c5=0,c10=0;
-        for(auto &i: bills){
-            if(i==5)
-                c5++;
-            else if(i==10){
-                c10++;
-                if(c5>0)
-                    c5--;
-                else
-                    return false;
-            }
-            else{
-                if(c10>0&&c5>0){
-                    c10--;
-                    c5--;
+    string sortString(string s) {
+        int mp[26]={0};
+        string res="";
+        for(char c:s)
+            mp[c-'a']++;
+        while(res.size()!=s.size())
+        {
+            for(int i=0;i<26;i++)
+            {
+                if(mp[i])
+                {
+                    res+='a'+i;
+                    mp[i]--;
                 }
-                else if(c5>2)
-                    c5-=3;
-                else
-                    return false;
+            }
+            for(int i=25;i>=0;i--)
+            {
+                if(mp[i])
+                {
+                    res+='a'+i;
+                    mp[i]--;
+                }
             }
         }
-        return true;
+        return res;
     }
 };
