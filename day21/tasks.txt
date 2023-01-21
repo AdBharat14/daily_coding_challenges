@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/valid-palindrome/
+
+Task 2 :
+https://leetcode.com/problems/counting-bits/

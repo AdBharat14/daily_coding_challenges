@@ -1,0 +1,7 @@
+Task 1:
+https://leetcode.com/problems/count-primes/
+https://codeforces.com/problemset/problem/17/A
+
+Task 2 :
+https://www.codechef.com/problems/GCDQ
+ 

@@ -1,5 +1,5 @@
 Task 1:
-https://practice.geeksforgeeks.org/.../check-if-an.../1
+https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
 
 Task 2:
-https://practice.geeksforgeeks.org/.../union-of-two.../1
+https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
