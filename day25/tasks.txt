@@ -1,0 +1,6 @@
+Task 1:
+https://leetcode.com/problems/merge-sorted-array/
+
+
+Task 2:
+https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/

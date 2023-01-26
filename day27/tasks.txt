@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/maximum-average-subarray-i/description/
+
+Task 2:
+https://leetcode.com/problems/reverse-vowels-of-a-string/

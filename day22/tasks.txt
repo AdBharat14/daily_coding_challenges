@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/isomorphic-strings/
+
+Task 2 :
+https://leetcode.com/problems/contains-duplicate/

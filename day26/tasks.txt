@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+
+Task 2:
+https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
