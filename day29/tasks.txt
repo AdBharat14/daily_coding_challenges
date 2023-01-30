@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+Task 2 :
+https://practice.geeksforgeeks.org/problems/modified-numbers-and-queries0904/1

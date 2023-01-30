@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/find-the-k-beauty-of-a-number/
+
+Task 2 :
+https://leetcode.com/problems/sum-of-unique-elements/

@@ -1,0 +1,5 @@
+Task 1:
+https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
+
+Task 2:
+https://leetcode.com/problems/prime-arrangements/

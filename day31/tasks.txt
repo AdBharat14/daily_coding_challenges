@@ -1,0 +1,5 @@
+Task 1:
+https://https://leetcode.com/problems/find-peak-element/
+
+Task 2 :
+https://https://leetcode.com/problems/range-sum-query-immutable/
